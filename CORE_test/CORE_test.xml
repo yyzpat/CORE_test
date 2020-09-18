@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CORE_test</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:CORE_test.Controllers.HomeController.Get" -->
+    </members>
+</doc>
